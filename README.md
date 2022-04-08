@@ -1,9 +1,8 @@
 #### python_code
 
-#### Software engineering
-
-* Requirements analysis
-* System modeling
+1.Software engineering
+⋅⋅* Requirements analysis
+⋅⋅* System modeling
 * Use cases
 * Software architecture
 * Methods-agile
