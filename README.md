@@ -16,9 +16,7 @@
 * Handling service transactions
 * Deploying a service
 
-
 2.Software Constructs/object
-
 * Data types
 * Variables
 * Dictionaries
@@ -31,11 +29,11 @@
 * Classes
 
 3. Math libraries
-
 * [AI](https://github.com/tonyj4102/A_I)
 * [ML ](https://github.com/tonyj4102/ml_algorithms)
-4. Aps
-*Main
-*APIS
+
+4.Aps
+* Main
+* APIS
 * Applications/Framework
 * Embedded apps
