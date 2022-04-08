@@ -1,8 +1,8 @@
 #### python_code
 
 1.Software engineering
-⋅⋅* Requirements analysis
-⋅⋅* System modeling
+* Requirements analysis
+* System modeling
 * Use cases
 * Software architecture
 * Methods-agile
@@ -17,7 +17,7 @@
 * Deploying a service
 
 
-#### Software Constructs/object
+2.Software Constructs/object
 
 * Data types
 * Variables
@@ -30,12 +30,12 @@
 * Functions
 * Classes
 
-#### Math libraries
+3. Math libraries
 
 * [AI](https://github.com/tonyj4102/A_I)
 * [ML ](https://github.com/tonyj4102/ml_algorithms)
-
-#### Aps
-* APIS
+4. Aps
+*Main
+*APIS
 * Applications/Framework
 * Embedded apps
